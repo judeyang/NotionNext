@@ -19,7 +19,7 @@ const Footer = ({ title }) => {
         <a
           href={siteConfig('LINK')}
           className='underline font-bold  dark:text-gray-300 '>
-          {siteConfig('AUTHOR')}
+          青岛林生轩科贸发展有限公司 {siteConfig('VERSION')}
         </a>
         .<br />
         <BeiAnSite />
